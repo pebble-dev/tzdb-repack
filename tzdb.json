@@ -1,0 +1,3881 @@
+{
+  "tzs": [
+    {
+      "cont": 0,
+      "city": "Abidjan",
+      "gmtmin": 0,
+      "tznam": "GMT",
+      "dstrule": 0,
+      "aliases": [
+        "Africa/Bamako",
+        "Africa/Banjul",
+        "Africa/Conakry",
+        "Africa/Dakar",
+        "Africa/Freetown",
+        "Africa/Lome",
+        "Africa/Nouakchott",
+        "Africa/Ouagadougou",
+        "Africa/Sao_Tome",
+        "Africa/Timbuktu",
+        "Atlantic/St_Helena"
+      ]
+    },
+    {
+      "cont": 0,
+      "city": "Accra",
+      "gmtmin": 0,
+      "tznam": "*",
+      "dstrule": 0,
+      "aliases": []
+    },
+    {
+      "cont": 0,
+      "city": "Algiers",
+      "gmtmin": 60,
+      "tznam": "CET",
+      "dstrule": 0,
+      "aliases": []
+    },
+    {
+      "cont": 0,
+      "city": "Bissau",
+      "gmtmin": 0,
+      "tznam": "GMT",
+      "dstrule": 0,
+      "aliases": []
+    },
+    {
+      "cont": 0,
+      "city": "Ceuta",
+      "gmtmin": 60,
+      "tznam": "CE*T",
+      "dstrule": 14,
+      "aliases": []
+    },
+    {
+      "cont": 0,
+      "city": "Johannesburg",
+      "gmtmin": 120,
+      "tznam": "SAST",
+      "dstrule": 0,
+      "aliases": [
+        "Africa/Maseru",
+        "Africa/Mbabane"
+      ]
+    },
+    {
+      "cont": 0,
+      "city": "Khartoum",
+      "gmtmin": 180,
+      "tznam": "EAT",
+      "dstrule": 0,
+      "aliases": [
+        "Africa/Juba"
+      ]
+    },
+    {
+      "cont": 0,
+      "city": "Lagos",
+      "gmtmin": 60,
+      "tznam": "WAT",
+      "dstrule": 0,
+      "aliases": [
+        "Africa/Bangui",
+        "Africa/Brazzaville",
+        "Africa/Douala",
+        "Africa/Kinshasa",
+        "Africa/Libreville",
+        "Africa/Luanda",
+        "Africa/Malabo",
+        "Africa/Niamey",
+        "Africa/Porto-Novo"
+      ]
+    },
+    {
+      "cont": 0,
+      "city": "Maputo",
+      "gmtmin": 120,
+      "tznam": "CAT",
+      "dstrule": 0,
+      "aliases": [
+        "Africa/Blantyre",
+        "Africa/Bujumbura",
+        "Africa/Gaborone",
+        "Africa/Harare",
+        "Africa/Kigali",
+        "Africa/Lubumbashi",
+        "Africa/Lusaka"
+      ]
+    },
+    {
+      "cont": 0,
+      "city": "Monrovia",
+      "gmtmin": 0,
+      "tznam": "GMT",
+      "dstrule": 0,
+      "aliases": []
+    },
+    {
+      "cont": 0,
+      "city": "Nairobi",
+      "gmtmin": 180,
+      "tznam": "EAT",
+      "dstrule": 0,
+      "aliases": [
+        "Africa/Addis_Ababa",
+        "Africa/Asmara",
+        "Africa/Asmera",
+        "Africa/Dar_es_Salaam",
+        "Africa/Djibouti",
+        "Africa/Kampala",
+        "Africa/Mogadishu",
+        "Indian/Antananarivo",
+        "Indian/Comoro",
+        "Indian/Mayotte"
+      ]
+    },
+    {
+      "cont": 0,
+      "city": "Ndjamena",
+      "gmtmin": 60,
+      "tznam": "WAT",
+      "dstrule": 0,
+      "aliases": []
+    },
+    {
+      "cont": 0,
+      "city": "Tripoli",
+      "gmtmin": 120,
+      "tznam": "EET",
+      "dstrule": 0,
+      "aliases": [
+        "Libya"
+      ]
+    },
+    {
+      "cont": 0,
+      "city": "Tunis",
+      "gmtmin": 60,
+      "tznam": "CE*T",
+      "dstrule": 0,
+      "aliases": []
+    },
+    {
+      "cont": 0,
+      "city": "Windhoek",
+      "gmtmin": 60,
+      "tznam": "WA*T",
+      "dstrule": 25,
+      "aliases": []
+    },
+    {
+      "cont": 1,
+      "city": "Adak",
+      "gmtmin": -600,
+      "tznam": "H*T",
+      "dstrule": 31,
+      "aliases": [
+        "America/Atka",
+        "US/Aleutian"
+      ]
+    },
+    {
+      "cont": 1,
+      "city": "Anchorage",
+      "gmtmin": -540,
+      "tznam": "AK*T",
+      "dstrule": 31,
+      "aliases": [
+        "US/Alaska"
+      ]
+    },
+    {
+      "cont": 1,
+      "city": "Araguaina",
+      "gmtmin": -180,
+      "tznam": "BRT",
+      "dstrule": 0,
+      "aliases": []
+    },
+    {
+      "cont": 1,
+      "city": "Asuncion",
+      "gmtmin": -240,
+      "tznam": "PY*T",
+      "dstrule": 27,
+      "aliases": []
+    },
+    {
+      "cont": 1,
+      "city": "Atikokan",
+      "gmtmin": -300,
+      "tznam": "EST",
+      "dstrule": 0,
+      "aliases": [
+        "America/Coral_Harbour"
+      ]
+    },
+    {
+      "cont": 1,
+      "city": "Bahia",
+      "gmtmin": -180,
+      "tznam": "BRT",
+      "dstrule": 0,
+      "aliases": []
+    },
+    {
+      "cont": 1,
+      "city": "Bahia_Banderas",
+      "gmtmin": -360,
+      "tznam": "C*T",
+      "dstrule": 22,
+      "aliases": []
+    },
+    {
+      "cont": 1,
+      "city": "Barbados",
+      "gmtmin": -240,
+      "tznam": "A*T",
+      "dstrule": 0,
+      "aliases": []
+    },
+    {
+      "cont": 1,
+      "city": "Belem",
+      "gmtmin": -180,
+      "tznam": "BRT",
+      "dstrule": 0,
+      "aliases": []
+    },
+    {
+      "cont": 1,
+      "city": "Belize",
+      "gmtmin": -360,
+      "tznam": "C*T",
+      "dstrule": 0,
+      "aliases": []
+    },
+    {
+      "cont": 1,
+      "city": "Beulah",
+      "gmtmin": -360,
+      "tznam": "C*T",
+      "dstrule": 31,
+      "aliases": []
+    },
+    {
+      "cont": 1,
+      "city": "Blanc-Sablon",
+      "gmtmin": -240,
+      "tznam": "AST",
+      "dstrule": 0,
+      "aliases": []
+    },
+    {
+      "cont": 1,
+      "city": "Boa_Vista",
+      "gmtmin": -240,
+      "tznam": "AMT",
+      "dstrule": 0,
+      "aliases": []
+    },
+    {
+      "cont": 1,
+      "city": "Bogota",
+      "gmtmin": -300,
+      "tznam": "CO*T",
+      "dstrule": 0,
+      "aliases": []
+    },
+    {
+      "cont": 1,
+      "city": "Boise",
+      "gmtmin": -420,
+      "tznam": "M*T",
+      "dstrule": 31,
+      "aliases": []
+    },
+    {
+      "cont": 1,
+      "city": "Buenos_Aires",
+      "gmtmin": -180,
+      "tznam": "AR*T",
+      "dstrule": 0,
+      "aliases": [
+        "America/Buenos_Aires"
+      ]
+    },
+    {
+      "cont": 1,
+      "city": "Cambridge_Bay",
+      "gmtmin": -420,
+      "tznam": "M*T",
+      "dstrule": 8,
+      "aliases": []
+    },
+    {
+      "cont": 1,
+      "city": "Campo_Grande",
+      "gmtmin": -240,
+      "tznam": "AM*T",
+      "dstrule": 6,
+      "aliases": []
+    },
+    {
+      "cont": 1,
+      "city": "Cancun",
+      "gmtmin": -300,
+      "tznam": "EST",
+      "dstrule": 0,
+      "aliases": []
+    },
+    {
+      "cont": 1,
+      "city": "Caracas",
+      "gmtmin": -240,
+      "tznam": "VET",
+      "dstrule": 0,
+      "aliases": []
+    },
+    {
+      "cont": 1,
+      "city": "Catamarca",
+      "gmtmin": -180,
+      "tznam": "ART",
+      "dstrule": 0,
+      "aliases": [
+        "America/Argentina/ComodRivadavia",
+        "America/Catamarca"
+      ]
+    },
+    {
+      "cont": 1,
+      "city": "Cayenne",
+      "gmtmin": -180,
+      "tznam": "GFT",
+      "dstrule": 0,
+      "aliases": []
+    },
+    {
+      "cont": 1,
+      "city": "Center",
+      "gmtmin": -360,
+      "tznam": "C*T",
+      "dstrule": 31,
+      "aliases": []
+    },
+    {
+      "cont": 1,
+      "city": "Chicago",
+      "gmtmin": -360,
+      "tznam": "C*T",
+      "dstrule": 31,
+      "aliases": [
+        "US/Central"
+      ]
+    },
+    {
+      "cont": 1,
+      "city": "Chihuahua",
+      "gmtmin": -420,
+      "tznam": "M*T",
+      "dstrule": 22,
+      "aliases": []
+    },
+    {
+      "cont": 1,
+      "city": "Cordoba",
+      "gmtmin": -180,
+      "tznam": "AR*T",
+      "dstrule": 0,
+      "aliases": [
+        "America/Cordoba",
+        "America/Rosario"
+      ]
+    },
+    {
+      "cont": 1,
+      "city": "Costa_Rica",
+      "gmtmin": -360,
+      "tznam": "C*T",
+      "dstrule": 0,
+      "aliases": []
+    },
+    {
+      "cont": 1,
+      "city": "Creston",
+      "gmtmin": -420,
+      "tznam": "MST",
+      "dstrule": 0,
+      "aliases": []
+    },
+    {
+      "cont": 1,
+      "city": "Cuiaba",
+      "gmtmin": -240,
+      "tznam": "AM*T",
+      "dstrule": 6,
+      "aliases": []
+    },
+    {
+      "cont": 1,
+      "city": "Curacao",
+      "gmtmin": -240,
+      "tznam": "AST",
+      "dstrule": 0,
+      "aliases": [
+        "America/Aruba",
+        "America/Kralendijk",
+        "America/Lower_Princes"
+      ]
+    },
+    {
+      "cont": 1,
+      "city": "Danmarkshavn",
+      "gmtmin": 0,
+      "tznam": "GMT",
+      "dstrule": 0,
+      "aliases": []
+    },
+    {
+      "cont": 1,
+      "city": "Dawson",
+      "gmtmin": -480,
+      "tznam": "P*T",
+      "dstrule": 8,
+      "aliases": []
+    },
+    {
+      "cont": 1,
+      "city": "Dawson_Creek",
+      "gmtmin": -420,
+      "tznam": "MST",
+      "dstrule": 0,
+      "aliases": []
+    },
+    {
+      "cont": 1,
+      "city": "Denver",
+      "gmtmin": -420,
+      "tznam": "M*T",
+      "dstrule": 31,
+      "aliases": [
+        "America/Shiprock",
+        "Navajo",
+        "US/Mountain"
+      ]
+    },
+    {
+      "cont": 1,
+      "city": "Detroit",
+      "gmtmin": -300,
+      "tznam": "E*T",
+      "dstrule": 31,
+      "aliases": [
+        "US/Michigan"
+      ]
+    },
+    {
+      "cont": 1,
+      "city": "Edmonton",
+      "gmtmin": -420,
+      "tznam": "M*T",
+      "dstrule": 8,
+      "aliases": [
+        "Canada/Mountain"
+      ]
+    },
+    {
+      "cont": 1,
+      "city": "Eirunepe",
+      "gmtmin": -300,
+      "tznam": "ACT",
+      "dstrule": 0,
+      "aliases": []
+    },
+    {
+      "cont": 1,
+      "city": "El_Salvador",
+      "gmtmin": -360,
+      "tznam": "C*T",
+      "dstrule": 0,
+      "aliases": []
+    },
+    {
+      "cont": 1,
+      "city": "Fort_Nelson",
+      "gmtmin": -420,
+      "tznam": "MST",
+      "dstrule": 0,
+      "aliases": []
+    },
+    {
+      "cont": 1,
+      "city": "Fortaleza",
+      "gmtmin": -180,
+      "tznam": "BRT",
+      "dstrule": 0,
+      "aliases": []
+    },
+    {
+      "cont": 1,
+      "city": "Glace_Bay",
+      "gmtmin": -240,
+      "tznam": "A*T",
+      "dstrule": 8,
+      "aliases": []
+    },
+    {
+      "cont": 1,
+      "city": "Godthab",
+      "gmtmin": -180,
+      "tznam": "WG*T",
+      "dstrule": 14,
+      "aliases": []
+    },
+    {
+      "cont": 1,
+      "city": "Goose_Bay",
+      "gmtmin": -240,
+      "tznam": "A*T",
+      "dstrule": 8,
+      "aliases": []
+    },
+    {
+      "cont": 1,
+      "city": "Grand_Turk",
+      "gmtmin": -240,
+      "tznam": "AST",
+      "dstrule": 0,
+      "aliases": []
+    },
+    {
+      "cont": 1,
+      "city": "Guatemala",
+      "gmtmin": -360,
+      "tznam": "C*T",
+      "dstrule": 0,
+      "aliases": []
+    },
+    {
+      "cont": 1,
+      "city": "Guayaquil",
+      "gmtmin": -300,
+      "tznam": "ECT",
+      "dstrule": 0,
+      "aliases": []
+    },
+    {
+      "cont": 1,
+      "city": "Guyana",
+      "gmtmin": -240,
+      "tznam": "GYT",
+      "dstrule": 0,
+      "aliases": []
+    },
+    {
+      "cont": 1,
+      "city": "Halifax",
+      "gmtmin": -240,
+      "tznam": "A*T",
+      "dstrule": 8,
+      "aliases": [
+        "Canada/Atlantic"
+      ]
+    },
+    {
+      "cont": 1,
+      "city": "Havana",
+      "gmtmin": -300,
+      "tznam": "C*T",
+      "dstrule": 11,
+      "aliases": [
+        "Cuba"
+      ]
+    },
+    {
+      "cont": 1,
+      "city": "Hermosillo",
+      "gmtmin": -420,
+      "tznam": "MST",
+      "dstrule": 0,
+      "aliases": []
+    },
+    {
+      "cont": 1,
+      "city": "Indianapolis",
+      "gmtmin": -300,
+      "tznam": "E*T",
+      "dstrule": 31,
+      "aliases": [
+        "America/Fort_Wayne",
+        "America/Indianapolis",
+        "US/East-Indiana"
+      ]
+    },
+    {
+      "cont": 1,
+      "city": "Inuvik",
+      "gmtmin": -420,
+      "tznam": "M*T",
+      "dstrule": 8,
+      "aliases": []
+    },
+    {
+      "cont": 1,
+      "city": "Iqaluit",
+      "gmtmin": -300,
+      "tznam": "E*T",
+      "dstrule": 8,
+      "aliases": []
+    },
+    {
+      "cont": 1,
+      "city": "Jamaica",
+      "gmtmin": -300,
+      "tznam": "EST",
+      "dstrule": 0,
+      "aliases": [
+        "Jamaica"
+      ]
+    },
+    {
+      "cont": 1,
+      "city": "Jujuy",
+      "gmtmin": -180,
+      "tznam": "ART",
+      "dstrule": 0,
+      "aliases": [
+        "America/Jujuy"
+      ]
+    },
+    {
+      "cont": 1,
+      "city": "Juneau",
+      "gmtmin": -540,
+      "tznam": "AK*T",
+      "dstrule": 31,
+      "aliases": []
+    },
+    {
+      "cont": 1,
+      "city": "Knox",
+      "gmtmin": -360,
+      "tznam": "C*T",
+      "dstrule": 31,
+      "aliases": [
+        "America/Knox_IN",
+        "US/Indiana-Starke"
+      ]
+    },
+    {
+      "cont": 1,
+      "city": "La_Paz",
+      "gmtmin": -240,
+      "tznam": "BOT",
+      "dstrule": 0,
+      "aliases": []
+    },
+    {
+      "cont": 1,
+      "city": "La_Rioja",
+      "gmtmin": -180,
+      "tznam": "ART",
+      "dstrule": 0,
+      "aliases": []
+    },
+    {
+      "cont": 1,
+      "city": "Lima",
+      "gmtmin": -300,
+      "tznam": "PE*T",
+      "dstrule": 0,
+      "aliases": []
+    },
+    {
+      "cont": 1,
+      "city": "Los_Angeles",
+      "gmtmin": -480,
+      "tznam": "P*T",
+      "dstrule": 31,
+      "aliases": [
+        "US/Pacific"
+      ]
+    },
+    {
+      "cont": 1,
+      "city": "Louisville",
+      "gmtmin": -300,
+      "tznam": "E*T",
+      "dstrule": 31,
+      "aliases": [
+        "America/Louisville"
+      ]
+    },
+    {
+      "cont": 1,
+      "city": "Maceio",
+      "gmtmin": -180,
+      "tznam": "BRT",
+      "dstrule": 0,
+      "aliases": []
+    },
+    {
+      "cont": 1,
+      "city": "Managua",
+      "gmtmin": -360,
+      "tznam": "C*T",
+      "dstrule": 0,
+      "aliases": []
+    },
+    {
+      "cont": 1,
+      "city": "Manaus",
+      "gmtmin": -240,
+      "tznam": "AMT",
+      "dstrule": 0,
+      "aliases": [
+        "Brazil/West"
+      ]
+    },
+    {
+      "cont": 1,
+      "city": "Marengo",
+      "gmtmin": -300,
+      "tznam": "E*T",
+      "dstrule": 31,
+      "aliases": []
+    },
+    {
+      "cont": 1,
+      "city": "Martinique",
+      "gmtmin": -240,
+      "tznam": "AST",
+      "dstrule": 0,
+      "aliases": []
+    },
+    {
+      "cont": 1,
+      "city": "Matamoros",
+      "gmtmin": -360,
+      "tznam": "C*T",
+      "dstrule": 31,
+      "aliases": []
+    },
+    {
+      "cont": 1,
+      "city": "Mazatlan",
+      "gmtmin": -420,
+      "tznam": "M*T",
+      "dstrule": 22,
+      "aliases": [
+        "Mexico/BajaSur"
+      ]
+    },
+    {
+      "cont": 1,
+      "city": "Mendoza",
+      "gmtmin": -180,
+      "tznam": "ART",
+      "dstrule": 0,
+      "aliases": [
+        "America/Mendoza"
+      ]
+    },
+    {
+      "cont": 1,
+      "city": "Menominee",
+      "gmtmin": -360,
+      "tznam": "C*T",
+      "dstrule": 31,
+      "aliases": []
+    },
+    {
+      "cont": 1,
+      "city": "Merida",
+      "gmtmin": -360,
+      "tznam": "C*T",
+      "dstrule": 22,
+      "aliases": []
+    },
+    {
+      "cont": 1,
+      "city": "Metlakatla",
+      "gmtmin": -540,
+      "tznam": "AK*T",
+      "dstrule": 31,
+      "aliases": []
+    },
+    {
+      "cont": 1,
+      "city": "Mexico_City",
+      "gmtmin": -360,
+      "tznam": "C*T",
+      "dstrule": 22,
+      "aliases": [
+        "Mexico/General"
+      ]
+    },
+    {
+      "cont": 1,
+      "city": "Miquelon",
+      "gmtmin": -180,
+      "tznam": "PM*T",
+      "dstrule": 8,
+      "aliases": []
+    },
+    {
+      "cont": 1,
+      "city": "Moncton",
+      "gmtmin": -240,
+      "tznam": "A*T",
+      "dstrule": 8,
+      "aliases": []
+    },
+    {
+      "cont": 1,
+      "city": "Monterrey",
+      "gmtmin": -360,
+      "tznam": "C*T",
+      "dstrule": 22,
+      "aliases": []
+    },
+    {
+      "cont": 1,
+      "city": "Montevideo",
+      "gmtmin": -180,
+      "tznam": "UY*T",
+      "dstrule": 32,
+      "aliases": []
+    },
+    {
+      "cont": 1,
+      "city": "Monticello",
+      "gmtmin": -300,
+      "tznam": "E*T",
+      "dstrule": 31,
+      "aliases": []
+    },
+    {
+      "cont": 1,
+      "city": "Nassau",
+      "gmtmin": -300,
+      "tznam": "E*T",
+      "dstrule": 31,
+      "aliases": []
+    },
+    {
+      "cont": 1,
+      "city": "New_Salem",
+      "gmtmin": -360,
+      "tznam": "C*T",
+      "dstrule": 31,
+      "aliases": []
+    },
+    {
+      "cont": 1,
+      "city": "New_York",
+      "gmtmin": -300,
+      "tznam": "E*T",
+      "dstrule": 31,
+      "aliases": [
+        "US/Eastern"
+      ]
+    },
+    {
+      "cont": 1,
+      "city": "Nipigon",
+      "gmtmin": -300,
+      "tznam": "E*T",
+      "dstrule": 8,
+      "aliases": []
+    },
+    {
+      "cont": 1,
+      "city": "Nome",
+      "gmtmin": -540,
+      "tznam": "AK*T",
+      "dstrule": 31,
+      "aliases": []
+    },
+    {
+      "cont": 1,
+      "city": "Noronha",
+      "gmtmin": -120,
+      "tznam": "FNT",
+      "dstrule": 0,
+      "aliases": [
+        "Brazil/DeNoronha"
+      ]
+    },
+    {
+      "cont": 1,
+      "city": "Ojinaga",
+      "gmtmin": -420,
+      "tznam": "M*T",
+      "dstrule": 31,
+      "aliases": []
+    },
+    {
+      "cont": 1,
+      "city": "Panama",
+      "gmtmin": -300,
+      "tznam": "EST",
+      "dstrule": 0,
+      "aliases": [
+        "America/Cayman"
+      ]
+    },
+    {
+      "cont": 1,
+      "city": "Pangnirtung",
+      "gmtmin": -300,
+      "tznam": "E*T",
+      "dstrule": 8,
+      "aliases": []
+    },
+    {
+      "cont": 1,
+      "city": "Paramaribo",
+      "gmtmin": -180,
+      "tznam": "SRT",
+      "dstrule": 0,
+      "aliases": []
+    },
+    {
+      "cont": 1,
+      "city": "Petersburg",
+      "gmtmin": -300,
+      "tznam": "E*T",
+      "dstrule": 31,
+      "aliases": []
+    },
+    {
+      "cont": 1,
+      "city": "Phoenix",
+      "gmtmin": -420,
+      "tznam": "MST",
+      "dstrule": 0,
+      "aliases": [
+        "US/Arizona"
+      ]
+    },
+    {
+      "cont": 1,
+      "city": "Port-au-Prince",
+      "gmtmin": -300,
+      "tznam": "E*T",
+      "dstrule": 18,
+      "aliases": []
+    },
+    {
+      "cont": 1,
+      "city": "Port_of_Spain",
+      "gmtmin": -240,
+      "tznam": "AST",
+      "dstrule": 0,
+      "aliases": [
+        "America/Anguilla",
+        "America/Antigua",
+        "America/Dominica",
+        "America/Grenada",
+        "America/Guadeloupe",
+        "America/Marigot",
+        "America/Montserrat",
+        "America/St_Barthelemy",
+        "America/St_Kitts",
+        "America/St_Lucia",
+        "America/St_Thomas",
+        "America/St_Vincent",
+        "America/Tortola",
+        "America/Virgin"
+      ]
+    },
+    {
+      "cont": 1,
+      "city": "Porto_Velho",
+      "gmtmin": -240,
+      "tznam": "AMT",
+      "dstrule": 0,
+      "aliases": []
+    },
+    {
+      "cont": 1,
+      "city": "Puerto_Rico",
+      "gmtmin": -240,
+      "tznam": "AST",
+      "dstrule": 0,
+      "aliases": []
+    },
+    {
+      "cont": 1,
+      "city": "Rainy_River",
+      "gmtmin": -360,
+      "tznam": "C*T",
+      "dstrule": 8,
+      "aliases": []
+    },
+    {
+      "cont": 1,
+      "city": "Rankin_Inlet",
+      "gmtmin": -360,
+      "tznam": "C*T",
+      "dstrule": 8,
+      "aliases": []
+    },
+    {
+      "cont": 1,
+      "city": "Recife",
+      "gmtmin": -180,
+      "tznam": "BRT",
+      "dstrule": 0,
+      "aliases": []
+    },
+    {
+      "cont": 1,
+      "city": "Regina",
+      "gmtmin": -360,
+      "tznam": "CST",
+      "dstrule": 0,
+      "aliases": [
+        "Canada/East-Saskatchewan",
+        "Canada/Saskatchewan"
+      ]
+    },
+    {
+      "cont": 1,
+      "city": "Resolute",
+      "gmtmin": -360,
+      "tznam": "C*T",
+      "dstrule": 8,
+      "aliases": []
+    },
+    {
+      "cont": 1,
+      "city": "Rio_Branco",
+      "gmtmin": -300,
+      "tznam": "ACT",
+      "dstrule": 0,
+      "aliases": [
+        "America/Porto_Acre",
+        "Brazil/Acre"
+      ]
+    },
+    {
+      "cont": 1,
+      "city": "Rio_Gallegos",
+      "gmtmin": -180,
+      "tznam": "ART",
+      "dstrule": 0,
+      "aliases": []
+    },
+    {
+      "cont": 1,
+      "city": "Salta",
+      "gmtmin": -180,
+      "tznam": "ART",
+      "dstrule": 0,
+      "aliases": []
+    },
+    {
+      "cont": 1,
+      "city": "San_Juan",
+      "gmtmin": -180,
+      "tznam": "ART",
+      "dstrule": 0,
+      "aliases": []
+    },
+    {
+      "cont": 1,
+      "city": "San_Luis",
+      "gmtmin": -180,
+      "tznam": "ART",
+      "dstrule": 0,
+      "aliases": []
+    },
+    {
+      "cont": 1,
+      "city": "Santarem",
+      "gmtmin": -180,
+      "tznam": "BRT",
+      "dstrule": 0,
+      "aliases": []
+    },
+    {
+      "cont": 1,
+      "city": "Santiago",
+      "gmtmin": -240,
+      "tznam": "CL*T",
+      "dstrule": 39,
+      "aliases": [
+        "Chile/Continental"
+      ]
+    },
+    {
+      "cont": 1,
+      "city": "Santo_Domingo",
+      "gmtmin": -240,
+      "tznam": "AST",
+      "dstrule": 0,
+      "aliases": []
+    },
+    {
+      "cont": 1,
+      "city": "Sao_Paulo",
+      "gmtmin": -180,
+      "tznam": "BR*T",
+      "dstrule": 6,
+      "aliases": [
+        "Brazil/East"
+      ]
+    },
+    {
+      "cont": 1,
+      "city": "Scoresbysund",
+      "gmtmin": -60,
+      "tznam": "EG*T",
+      "dstrule": 14,
+      "aliases": []
+    },
+    {
+      "cont": 1,
+      "city": "Sitka",
+      "gmtmin": -540,
+      "tznam": "AK*T",
+      "dstrule": 31,
+      "aliases": []
+    },
+    {
+      "cont": 1,
+      "city": "St_Johns",
+      "gmtmin": -210,
+      "tznam": "N*T",
+      "dstrule": 8,
+      "aliases": [
+        "Canada/Newfoundland"
+      ]
+    },
+    {
+      "cont": 1,
+      "city": "Swift_Current",
+      "gmtmin": -360,
+      "tznam": "CST",
+      "dstrule": 0,
+      "aliases": []
+    },
+    {
+      "cont": 1,
+      "city": "Tegucigalpa",
+      "gmtmin": -360,
+      "tznam": "C*T",
+      "dstrule": 0,
+      "aliases": []
+    },
+    {
+      "cont": 1,
+      "city": "Tell_City",
+      "gmtmin": -360,
+      "tznam": "C*T",
+      "dstrule": 31,
+      "aliases": []
+    },
+    {
+      "cont": 1,
+      "city": "Thule",
+      "gmtmin": -240,
+      "tznam": "A*T",
+      "dstrule": 30,
+      "aliases": []
+    },
+    {
+      "cont": 1,
+      "city": "Thunder_Bay",
+      "gmtmin": -300,
+      "tznam": "E*T",
+      "dstrule": 8,
+      "aliases": []
+    },
+    {
+      "cont": 1,
+      "city": "Tijuana",
+      "gmtmin": -480,
+      "tznam": "P*T",
+      "dstrule": 31,
+      "aliases": [
+        "America/Ensenada",
+        "America/Santa_Isabel",
+        "Mexico/BajaNorte"
+      ]
+    },
+    {
+      "cont": 1,
+      "city": "Toronto",
+      "gmtmin": -300,
+      "tznam": "E*T",
+      "dstrule": 8,
+      "aliases": [
+        "America/Montreal",
+        "Canada/Eastern"
+      ]
+    },
+    {
+      "cont": 1,
+      "city": "Tucuman",
+      "gmtmin": -180,
+      "tznam": "AR*T",
+      "dstrule": 0,
+      "aliases": []
+    },
+    {
+      "cont": 1,
+      "city": "Ushuaia",
+      "gmtmin": -180,
+      "tznam": "ART",
+      "dstrule": 0,
+      "aliases": []
+    },
+    {
+      "cont": 1,
+      "city": "Vancouver",
+      "gmtmin": -480,
+      "tznam": "P*T",
+      "dstrule": 8,
+      "aliases": [
+        "Canada/Pacific"
+      ]
+    },
+    {
+      "cont": 1,
+      "city": "Vevay",
+      "gmtmin": -300,
+      "tznam": "E*T",
+      "dstrule": 31,
+      "aliases": []
+    },
+    {
+      "cont": 1,
+      "city": "Vincennes",
+      "gmtmin": -300,
+      "tznam": "E*T",
+      "dstrule": 31,
+      "aliases": []
+    },
+    {
+      "cont": 1,
+      "city": "Whitehorse",
+      "gmtmin": -480,
+      "tznam": "P*T",
+      "dstrule": 8,
+      "aliases": [
+        "Canada/Yukon"
+      ]
+    },
+    {
+      "cont": 1,
+      "city": "Winamac",
+      "gmtmin": -300,
+      "tznam": "E*T",
+      "dstrule": 31,
+      "aliases": []
+    },
+    {
+      "cont": 1,
+      "city": "Winnipeg",
+      "gmtmin": -360,
+      "tznam": "C*T",
+      "dstrule": 8,
+      "aliases": [
+        "Canada/Central"
+      ]
+    },
+    {
+      "cont": 1,
+      "city": "Yakutat",
+      "gmtmin": -540,
+      "tznam": "AK*T",
+      "dstrule": 31,
+      "aliases": []
+    },
+    {
+      "cont": 1,
+      "city": "Yellowknife",
+      "gmtmin": -420,
+      "tznam": "M*T",
+      "dstrule": 8,
+      "aliases": []
+    },
+    {
+      "cont": 2,
+      "city": "Casey",
+      "gmtmin": 660,
+      "tznam": "+11",
+      "dstrule": 0,
+      "aliases": []
+    },
+    {
+      "cont": 2,
+      "city": "Davis",
+      "gmtmin": 420,
+      "tznam": "+07",
+      "dstrule": 0,
+      "aliases": []
+    },
+    {
+      "cont": 2,
+      "city": "DumontDUrville",
+      "gmtmin": 600,
+      "tznam": "+10",
+      "dstrule": 0,
+      "aliases": []
+    },
+    {
+      "cont": 2,
+      "city": "Macquarie",
+      "gmtmin": 660,
+      "tznam": "MIST",
+      "dstrule": 0,
+      "aliases": []
+    },
+    {
+      "cont": 2,
+      "city": "Mawson",
+      "gmtmin": 300,
+      "tznam": "+05",
+      "dstrule": 0,
+      "aliases": []
+    },
+    {
+      "cont": 2,
+      "city": "Palmer",
+      "gmtmin": -240,
+      "tznam": "CL*T",
+      "dstrule": 39,
+      "aliases": []
+    },
+    {
+      "cont": 2,
+      "city": "Syowa",
+      "gmtmin": 180,
+      "tznam": "+03",
+      "dstrule": 0,
+      "aliases": []
+    },
+    {
+      "cont": 2,
+      "city": "Vostok",
+      "gmtmin": 360,
+      "tznam": "+06",
+      "dstrule": 0,
+      "aliases": []
+    },
+    {
+      "cont": 3,
+      "city": "Almaty",
+      "gmtmin": 360,
+      "tznam": "+06",
+      "dstrule": 0,
+      "aliases": []
+    },
+    {
+      "cont": 3,
+      "city": "Amman",
+      "gmtmin": 120,
+      "tznam": "EE*T",
+      "dstrule": 19,
+      "aliases": []
+    },
+    {
+      "cont": 3,
+      "city": "Anadyr",
+      "gmtmin": 720,
+      "tznam": "+12",
+      "dstrule": 0,
+      "aliases": []
+    },
+    {
+      "cont": 3,
+      "city": "Aqtau",
+      "gmtmin": 300,
+      "tznam": "+05",
+      "dstrule": 0,
+      "aliases": []
+    },
+    {
+      "cont": 3,
+      "city": "Aqtobe",
+      "gmtmin": 300,
+      "tznam": "+05",
+      "dstrule": 0,
+      "aliases": []
+    },
+    {
+      "cont": 3,
+      "city": "Ashgabat",
+      "gmtmin": 300,
+      "tznam": "+05",
+      "dstrule": 0,
+      "aliases": [
+        "Asia/Ashkhabad"
+      ]
+    },
+    {
+      "cont": 3,
+      "city": "Baghdad",
+      "gmtmin": 180,
+      "tznam": "A*T",
+      "dstrule": 0,
+      "aliases": []
+    },
+    {
+      "cont": 3,
+      "city": "Bangkok",
+      "gmtmin": 420,
+      "tznam": "ICT",
+      "dstrule": 0,
+      "aliases": [
+        "Asia/Phnom_Penh",
+        "Asia/Vientiane"
+      ]
+    },
+    {
+      "cont": 3,
+      "city": "Barnaul",
+      "gmtmin": 420,
+      "tznam": "+07",
+      "dstrule": 0,
+      "aliases": []
+    },
+    {
+      "cont": 3,
+      "city": "Beirut",
+      "gmtmin": 120,
+      "tznam": "EE*T",
+      "dstrule": 21,
+      "aliases": []
+    },
+    {
+      "cont": 3,
+      "city": "Bishkek",
+      "gmtmin": 360,
+      "tznam": "+06",
+      "dstrule": 0,
+      "aliases": []
+    },
+    {
+      "cont": 3,
+      "city": "Brunei",
+      "gmtmin": 480,
+      "tznam": "BNT",
+      "dstrule": 0,
+      "aliases": []
+    },
+    {
+      "cont": 3,
+      "city": "Chita",
+      "gmtmin": 540,
+      "tznam": "+09",
+      "dstrule": 0,
+      "aliases": []
+    },
+    {
+      "cont": 3,
+      "city": "Choibalsan",
+      "gmtmin": 480,
+      "tznam": "CHO*T",
+      "dstrule": 36,
+      "aliases": []
+    },
+    {
+      "cont": 3,
+      "city": "Colombo",
+      "gmtmin": 330,
+      "tznam": "+0530",
+      "dstrule": 0,
+      "aliases": []
+    },
+    {
+      "cont": 3,
+      "city": "Damascus",
+      "gmtmin": 120,
+      "tznam": "EE*T",
+      "dstrule": 29,
+      "aliases": []
+    },
+    {
+      "cont": 3,
+      "city": "Dhaka",
+      "gmtmin": 360,
+      "tznam": "BD*T",
+      "dstrule": 0,
+      "aliases": [
+        "Asia/Dacca"
+      ]
+    },
+    {
+      "cont": 3,
+      "city": "Dili",
+      "gmtmin": 540,
+      "tznam": "TLT",
+      "dstrule": 0,
+      "aliases": []
+    },
+    {
+      "cont": 3,
+      "city": "Dubai",
+      "gmtmin": 240,
+      "tznam": "GST",
+      "dstrule": 0,
+      "aliases": [
+        "Asia/Muscat"
+      ]
+    },
+    {
+      "cont": 3,
+      "city": "Dushanbe",
+      "gmtmin": 300,
+      "tznam": "+05",
+      "dstrule": 0,
+      "aliases": []
+    },
+    {
+      "cont": 3,
+      "city": "Famagusta",
+      "gmtmin": 180,
+      "tznam": "+03",
+      "dstrule": 0,
+      "aliases": []
+    },
+    {
+      "cont": 3,
+      "city": "Gaza",
+      "gmtmin": 120,
+      "tznam": "EE*T",
+      "dstrule": 26,
+      "aliases": []
+    },
+    {
+      "cont": 3,
+      "city": "Hebron",
+      "gmtmin": 120,
+      "tznam": "EE*T",
+      "dstrule": 26,
+      "aliases": []
+    },
+    {
+      "cont": 3,
+      "city": "Ho_Chi_Minh",
+      "gmtmin": 420,
+      "tznam": "ICT",
+      "dstrule": 0,
+      "aliases": [
+        "Asia/Saigon"
+      ]
+    },
+    {
+      "cont": 3,
+      "city": "Hong_Kong",
+      "gmtmin": 480,
+      "tznam": "HK*T",
+      "dstrule": 0,
+      "aliases": [
+        "Hongkong"
+      ]
+    },
+    {
+      "cont": 3,
+      "city": "Hovd",
+      "gmtmin": 420,
+      "tznam": "HOV*T",
+      "dstrule": 36,
+      "aliases": []
+    },
+    {
+      "cont": 3,
+      "city": "Irkutsk",
+      "gmtmin": 480,
+      "tznam": "+08",
+      "dstrule": 0,
+      "aliases": []
+    },
+    {
+      "cont": 3,
+      "city": "Jakarta",
+      "gmtmin": 420,
+      "tznam": "WIB",
+      "dstrule": 0,
+      "aliases": []
+    },
+    {
+      "cont": 3,
+      "city": "Jayapura",
+      "gmtmin": 540,
+      "tznam": "WIT",
+      "dstrule": 0,
+      "aliases": []
+    },
+    {
+      "cont": 3,
+      "city": "Jerusalem",
+      "gmtmin": 120,
+      "tznam": "I*T",
+      "dstrule": 35,
+      "aliases": [
+        "Asia/Tel_Aviv",
+        "Israel"
+      ]
+    },
+    {
+      "cont": 3,
+      "city": "Kabul",
+      "gmtmin": 270,
+      "tznam": "AFT",
+      "dstrule": 0,
+      "aliases": []
+    },
+    {
+      "cont": 3,
+      "city": "Kamchatka",
+      "gmtmin": 720,
+      "tznam": "+12",
+      "dstrule": 0,
+      "aliases": []
+    },
+    {
+      "cont": 3,
+      "city": "Karachi",
+      "gmtmin": 300,
+      "tznam": "PK*T",
+      "dstrule": 0,
+      "aliases": []
+    },
+    {
+      "cont": 3,
+      "city": "Kathmandu",
+      "gmtmin": 345,
+      "tznam": "NPT",
+      "dstrule": 0,
+      "aliases": [
+        "Asia/Katmandu"
+      ]
+    },
+    {
+      "cont": 3,
+      "city": "Khandyga",
+      "gmtmin": 540,
+      "tznam": "+09",
+      "dstrule": 0,
+      "aliases": []
+    },
+    {
+      "cont": 3,
+      "city": "Kolkata",
+      "gmtmin": 330,
+      "tznam": "IST",
+      "dstrule": 0,
+      "aliases": [
+        "Asia/Calcutta"
+      ]
+    },
+    {
+      "cont": 3,
+      "city": "Krasnoyarsk",
+      "gmtmin": 420,
+      "tznam": "+07",
+      "dstrule": 0,
+      "aliases": []
+    },
+    {
+      "cont": 3,
+      "city": "Kuala_Lumpur",
+      "gmtmin": 480,
+      "tznam": "MYT",
+      "dstrule": 0,
+      "aliases": []
+    },
+    {
+      "cont": 3,
+      "city": "Kuching",
+      "gmtmin": 480,
+      "tznam": "MYT",
+      "dstrule": 0,
+      "aliases": []
+    },
+    {
+      "cont": 3,
+      "city": "Macau",
+      "gmtmin": 480,
+      "tznam": "C*T",
+      "dstrule": 0,
+      "aliases": [
+        "Asia/Macao"
+      ]
+    },
+    {
+      "cont": 3,
+      "city": "Magadan",
+      "gmtmin": 660,
+      "tznam": "+11",
+      "dstrule": 0,
+      "aliases": []
+    },
+    {
+      "cont": 3,
+      "city": "Makassar",
+      "gmtmin": 480,
+      "tznam": "WITA",
+      "dstrule": 0,
+      "aliases": [
+        "Asia/Ujung_Pandang"
+      ]
+    },
+    {
+      "cont": 3,
+      "city": "Manila",
+      "gmtmin": 480,
+      "tznam": "PH*T",
+      "dstrule": 0,
+      "aliases": []
+    },
+    {
+      "cont": 3,
+      "city": "Nicosia",
+      "gmtmin": 120,
+      "tznam": "EE*T",
+      "dstrule": 15,
+      "aliases": [
+        "Europe/Nicosia"
+      ]
+    },
+    {
+      "cont": 3,
+      "city": "Novokuznetsk",
+      "gmtmin": 420,
+      "tznam": "+07",
+      "dstrule": 0,
+      "aliases": []
+    },
+    {
+      "cont": 3,
+      "city": "Novosibirsk",
+      "gmtmin": 420,
+      "tznam": "+07",
+      "dstrule": 0,
+      "aliases": []
+    },
+    {
+      "cont": 3,
+      "city": "Omsk",
+      "gmtmin": 360,
+      "tznam": "+06",
+      "dstrule": 0,
+      "aliases": []
+    },
+    {
+      "cont": 3,
+      "city": "Oral",
+      "gmtmin": 300,
+      "tznam": "+05",
+      "dstrule": 0,
+      "aliases": []
+    },
+    {
+      "cont": 3,
+      "city": "Pontianak",
+      "gmtmin": 420,
+      "tznam": "WIB",
+      "dstrule": 0,
+      "aliases": []
+    },
+    {
+      "cont": 3,
+      "city": "Pyongyang",
+      "gmtmin": 510,
+      "tznam": "KST",
+      "dstrule": 0,
+      "aliases": []
+    },
+    {
+      "cont": 3,
+      "city": "Qatar",
+      "gmtmin": 180,
+      "tznam": "AST",
+      "dstrule": 0,
+      "aliases": [
+        "Asia/Bahrain"
+      ]
+    },
+    {
+      "cont": 3,
+      "city": "Qyzylorda",
+      "gmtmin": 360,
+      "tznam": "+06",
+      "dstrule": 0,
+      "aliases": []
+    },
+    {
+      "cont": 3,
+      "city": "Riyadh",
+      "gmtmin": 180,
+      "tznam": "AST",
+      "dstrule": 0,
+      "aliases": [
+        "Asia/Aden",
+        "Asia/Kuwait"
+      ]
+    },
+    {
+      "cont": 3,
+      "city": "Sakhalin",
+      "gmtmin": 660,
+      "tznam": "+11",
+      "dstrule": 0,
+      "aliases": []
+    },
+    {
+      "cont": 3,
+      "city": "Samarkand",
+      "gmtmin": 300,
+      "tznam": "+05",
+      "dstrule": 0,
+      "aliases": []
+    },
+    {
+      "cont": 3,
+      "city": "Seoul",
+      "gmtmin": 540,
+      "tznam": "K*T",
+      "dstrule": 0,
+      "aliases": [
+        "ROK"
+      ]
+    },
+    {
+      "cont": 3,
+      "city": "Shanghai",
+      "gmtmin": 480,
+      "tznam": "C*T",
+      "dstrule": 0,
+      "aliases": [
+        "Asia/Chongqing",
+        "Asia/Chungking",
+        "Asia/Harbin",
+        "PRC"
+      ]
+    },
+    {
+      "cont": 3,
+      "city": "Singapore",
+      "gmtmin": 480,
+      "tznam": "SGT",
+      "dstrule": 0,
+      "aliases": [
+        "Singapore"
+      ]
+    },
+    {
+      "cont": 3,
+      "city": "Srednekolymsk",
+      "gmtmin": 660,
+      "tznam": "+11",
+      "dstrule": 0,
+      "aliases": []
+    },
+    {
+      "cont": 3,
+      "city": "Taipei",
+      "gmtmin": 480,
+      "tznam": "C*T",
+      "dstrule": 0,
+      "aliases": [
+        "ROC"
+      ]
+    },
+    {
+      "cont": 3,
+      "city": "Tashkent",
+      "gmtmin": 300,
+      "tznam": "+05",
+      "dstrule": 0,
+      "aliases": []
+    },
+    {
+      "cont": 3,
+      "city": "Tbilisi",
+      "gmtmin": 240,
+      "tznam": "+04",
+      "dstrule": 0,
+      "aliases": []
+    },
+    {
+      "cont": 3,
+      "city": "Tehran",
+      "gmtmin": 210,
+      "tznam": "IR*T",
+      "dstrule": 38,
+      "aliases": [
+        "Iran"
+      ]
+    },
+    {
+      "cont": 3,
+      "city": "Thimphu",
+      "gmtmin": 360,
+      "tznam": "BTT",
+      "dstrule": 0,
+      "aliases": [
+        "Asia/Thimbu"
+      ]
+    },
+    {
+      "cont": 3,
+      "city": "Tokyo",
+      "gmtmin": 540,
+      "tznam": "J*T",
+      "dstrule": 0,
+      "aliases": [
+        "Japan"
+      ]
+    },
+    {
+      "cont": 3,
+      "city": "Tomsk",
+      "gmtmin": 420,
+      "tznam": "+07",
+      "dstrule": 0,
+      "aliases": []
+    },
+    {
+      "cont": 3,
+      "city": "Ulaanbaatar",
+      "gmtmin": 480,
+      "tznam": "ULA*T",
+      "dstrule": 36,
+      "aliases": [
+        "Asia/Ulan_Bator"
+      ]
+    },
+    {
+      "cont": 3,
+      "city": "Urumqi",
+      "gmtmin": 360,
+      "tznam": "XJT",
+      "dstrule": 0,
+      "aliases": [
+        "Asia/Kashgar"
+      ]
+    },
+    {
+      "cont": 3,
+      "city": "Ust-Nera",
+      "gmtmin": 600,
+      "tznam": "+10",
+      "dstrule": 0,
+      "aliases": []
+    },
+    {
+      "cont": 3,
+      "city": "Vladivostok",
+      "gmtmin": 600,
+      "tznam": "+10",
+      "dstrule": 0,
+      "aliases": []
+    },
+    {
+      "cont": 3,
+      "city": "Yakutsk",
+      "gmtmin": 540,
+      "tznam": "+09",
+      "dstrule": 0,
+      "aliases": []
+    },
+    {
+      "cont": 3,
+      "city": "Yangon",
+      "gmtmin": 390,
+      "tznam": "MMT",
+      "dstrule": 0,
+      "aliases": [
+        "Asia/Rangoon"
+      ]
+    },
+    {
+      "cont": 3,
+      "city": "Yekaterinburg",
+      "gmtmin": 300,
+      "tznam": "+05",
+      "dstrule": 0,
+      "aliases": []
+    },
+    {
+      "cont": 4,
+      "city": "Azores",
+      "gmtmin": -60,
+      "tznam": "AZO*T",
+      "dstrule": 14,
+      "aliases": []
+    },
+    {
+      "cont": 4,
+      "city": "Bermuda",
+      "gmtmin": -240,
+      "tznam": "A*T",
+      "dstrule": 31,
+      "aliases": []
+    },
+    {
+      "cont": 4,
+      "city": "Canary",
+      "gmtmin": 0,
+      "tznam": "WE*T",
+      "dstrule": 14,
+      "aliases": []
+    },
+    {
+      "cont": 4,
+      "city": "Cape_Verde",
+      "gmtmin": -60,
+      "tznam": "CVT",
+      "dstrule": 0,
+      "aliases": []
+    },
+    {
+      "cont": 4,
+      "city": "Faroe",
+      "gmtmin": 0,
+      "tznam": "WE*T",
+      "dstrule": 14,
+      "aliases": [
+        "Atlantic/Faeroe"
+      ]
+    },
+    {
+      "cont": 4,
+      "city": "Madeira",
+      "gmtmin": 0,
+      "tznam": "WE*T",
+      "dstrule": 14,
+      "aliases": []
+    },
+    {
+      "cont": 4,
+      "city": "Reykjavik",
+      "gmtmin": 0,
+      "tznam": "GMT",
+      "dstrule": 0,
+      "aliases": [
+        "Iceland"
+      ]
+    },
+    {
+      "cont": 4,
+      "city": "South_Georgia",
+      "gmtmin": -120,
+      "tznam": "GST",
+      "dstrule": 0,
+      "aliases": []
+    },
+    {
+      "cont": 4,
+      "city": "Stanley",
+      "gmtmin": -180,
+      "tznam": "FKST",
+      "dstrule": 0,
+      "aliases": []
+    },
+    {
+      "cont": 5,
+      "city": "Adelaide",
+      "gmtmin": 570,
+      "tznam": "AC*T",
+      "dstrule": 2,
+      "aliases": [
+        "Australia/South"
+      ]
+    },
+    {
+      "cont": 5,
+      "city": "Brisbane",
+      "gmtmin": 600,
+      "tznam": "AE*T",
+      "dstrule": 0,
+      "aliases": [
+        "Australia/Queensland"
+      ]
+    },
+    {
+      "cont": 5,
+      "city": "Broken_Hill",
+      "gmtmin": 570,
+      "tznam": "AC*T",
+      "dstrule": 2,
+      "aliases": [
+        "Australia/Yancowinna"
+      ]
+    },
+    {
+      "cont": 5,
+      "city": "Currie",
+      "gmtmin": 600,
+      "tznam": "AE*T",
+      "dstrule": 3,
+      "aliases": []
+    },
+    {
+      "cont": 5,
+      "city": "Darwin",
+      "gmtmin": 570,
+      "tznam": "AC*T",
+      "dstrule": 0,
+      "aliases": [
+        "Australia/North"
+      ]
+    },
+    {
+      "cont": 5,
+      "city": "Eucla",
+      "gmtmin": 525,
+      "tznam": "ACW*T",
+      "dstrule": 0,
+      "aliases": []
+    },
+    {
+      "cont": 5,
+      "city": "Hobart",
+      "gmtmin": 600,
+      "tznam": "AE*T",
+      "dstrule": 3,
+      "aliases": [
+        "Australia/Tasmania"
+      ]
+    },
+    {
+      "cont": 5,
+      "city": "Lindeman",
+      "gmtmin": 600,
+      "tznam": "AE*T",
+      "dstrule": 0,
+      "aliases": []
+    },
+    {
+      "cont": 5,
+      "city": "Melbourne",
+      "gmtmin": 600,
+      "tznam": "AE*T",
+      "dstrule": 4,
+      "aliases": [
+        "Australia/Victoria"
+      ]
+    },
+    {
+      "cont": 5,
+      "city": "Perth",
+      "gmtmin": 480,
+      "tznam": "AW*T",
+      "dstrule": 0,
+      "aliases": [
+        "Australia/West"
+      ]
+    },
+    {
+      "cont": 5,
+      "city": "Sydney",
+      "gmtmin": 600,
+      "tznam": "AE*T",
+      "dstrule": 1,
+      "aliases": [
+        "Australia/ACT",
+        "Australia/Canberra",
+        "Australia/NSW"
+      ]
+    },
+    {
+      "cont": 9,
+      "city": "GMT",
+      "gmtmin": -300,
+      "tznam": "EST",
+      "dstrule": 0,
+      "aliases": [
+        "Etc/GMT",
+        "Etc/GMT",
+        "Etc/GMT-",
+        "Etc/Greenwich",
+        "GMT",
+        "GMT",
+        "GMT",
+        "GMT-",
+        "Greenwich"
+      ]
+    },
+    {
+      "cont": 9,
+      "city": "GMT",
+      "gmtmin": 0,
+      "tznam": "GMT",
+      "dstrule": 0,
+      "aliases": []
+    },
+    {
+      "cont": 9,
+      "city": "UCT",
+      "gmtmin": 0,
+      "tznam": "UCT",
+      "dstrule": 0,
+      "aliases": [
+        "UCT"
+      ]
+    },
+    {
+      "cont": 9,
+      "city": "UTC",
+      "gmtmin": 0,
+      "tznam": "UTC",
+      "dstrule": 0,
+      "aliases": [
+        "Etc/Universal",
+        "Etc/Zulu",
+        "UTC",
+        "Universal",
+        "Zulu"
+      ]
+    },
+    {
+      "cont": 6,
+      "city": "Amsterdam",
+      "gmtmin": 60,
+      "tznam": "CE*T",
+      "dstrule": 14,
+      "aliases": []
+    },
+    {
+      "cont": 6,
+      "city": "Andorra",
+      "gmtmin": 60,
+      "tznam": "CE*T",
+      "dstrule": 14,
+      "aliases": []
+    },
+    {
+      "cont": 6,
+      "city": "Astrakhan",
+      "gmtmin": 240,
+      "tznam": "+04",
+      "dstrule": 0,
+      "aliases": []
+    },
+    {
+      "cont": 6,
+      "city": "Athens",
+      "gmtmin": 120,
+      "tznam": "EE*T",
+      "dstrule": 14,
+      "aliases": []
+    },
+    {
+      "cont": 6,
+      "city": "Belgrade",
+      "gmtmin": 60,
+      "tznam": "CE*T",
+      "dstrule": 14,
+      "aliases": [
+        "Europe/Ljubljana",
+        "Europe/Podgorica",
+        "Europe/Sarajevo",
+        "Europe/Skopje",
+        "Europe/Zagreb"
+      ]
+    },
+    {
+      "cont": 6,
+      "city": "Berlin",
+      "gmtmin": 60,
+      "tznam": "CE*T",
+      "dstrule": 14,
+      "aliases": []
+    },
+    {
+      "cont": 6,
+      "city": "Brussels",
+      "gmtmin": 60,
+      "tznam": "CE*T",
+      "dstrule": 14,
+      "aliases": []
+    },
+    {
+      "cont": 6,
+      "city": "Bucharest",
+      "gmtmin": 120,
+      "tznam": "EE*T",
+      "dstrule": 14,
+      "aliases": []
+    },
+    {
+      "cont": 6,
+      "city": "Budapest",
+      "gmtmin": 60,
+      "tznam": "CE*T",
+      "dstrule": 14,
+      "aliases": []
+    },
+    {
+      "cont": 6,
+      "city": "Chisinau",
+      "gmtmin": 120,
+      "tznam": "EE*T",
+      "dstrule": 37,
+      "aliases": [
+        "Europe/Tiraspol"
+      ]
+    },
+    {
+      "cont": 6,
+      "city": "Copenhagen",
+      "gmtmin": 60,
+      "tznam": "CE*T",
+      "dstrule": 14,
+      "aliases": []
+    },
+    {
+      "cont": 6,
+      "city": "Dublin",
+      "gmtmin": 0,
+      "tznam": "IST",
+      "dstrule": 14,
+      "aliases": [
+        "Eire"
+      ]
+    },
+    {
+      "cont": 6,
+      "city": "Gibraltar",
+      "gmtmin": 60,
+      "tznam": "CE*T",
+      "dstrule": 14,
+      "aliases": []
+    },
+    {
+      "cont": 6,
+      "city": "Helsinki",
+      "gmtmin": 120,
+      "tznam": "EE*T",
+      "dstrule": 14,
+      "aliases": [
+        "Europe/Mariehamn"
+      ]
+    },
+    {
+      "cont": 6,
+      "city": "Istanbul",
+      "gmtmin": 180,
+      "tznam": "+03",
+      "dstrule": 0,
+      "aliases": [
+        "Asia/Istanbul",
+        "Turkey"
+      ]
+    },
+    {
+      "cont": 6,
+      "city": "Kaliningrad",
+      "gmtmin": 120,
+      "tznam": "EET",
+      "dstrule": 0,
+      "aliases": []
+    },
+    {
+      "cont": 6,
+      "city": "Kiev",
+      "gmtmin": 120,
+      "tznam": "EE*T",
+      "dstrule": 14,
+      "aliases": []
+    },
+    {
+      "cont": 6,
+      "city": "Kirov",
+      "gmtmin": 180,
+      "tznam": "+03",
+      "dstrule": 0,
+      "aliases": []
+    },
+    {
+      "cont": 6,
+      "city": "Lisbon",
+      "gmtmin": 0,
+      "tznam": "WE*T",
+      "dstrule": 14,
+      "aliases": [
+        "Portugal"
+      ]
+    },
+    {
+      "cont": 6,
+      "city": "London",
+      "gmtmin": 0,
+      "tznam": "BST",
+      "dstrule": 14,
+      "aliases": [
+        "Europe/Belfast",
+        "Europe/Guernsey",
+        "Europe/Isle_of_Man",
+        "Europe/Jersey",
+        "GB",
+        "GB-Eire"
+      ]
+    },
+    {
+      "cont": 6,
+      "city": "Luxembourg",
+      "gmtmin": 60,
+      "tznam": "CE*T",
+      "dstrule": 14,
+      "aliases": []
+    },
+    {
+      "cont": 6,
+      "city": "Madrid",
+      "gmtmin": 60,
+      "tznam": "CE*T",
+      "dstrule": 14,
+      "aliases": []
+    },
+    {
+      "cont": 6,
+      "city": "Malta",
+      "gmtmin": 60,
+      "tznam": "CE*T",
+      "dstrule": 14,
+      "aliases": []
+    },
+    {
+      "cont": 6,
+      "city": "Minsk",
+      "gmtmin": 180,
+      "tznam": "+03",
+      "dstrule": 0,
+      "aliases": []
+    },
+    {
+      "cont": 6,
+      "city": "Monaco",
+      "gmtmin": 60,
+      "tznam": "CE*T",
+      "dstrule": 14,
+      "aliases": []
+    },
+    {
+      "cont": 6,
+      "city": "Moscow",
+      "gmtmin": 180,
+      "tznam": "MSK",
+      "dstrule": 0,
+      "aliases": [
+        "W-SU"
+      ]
+    },
+    {
+      "cont": 6,
+      "city": "Oslo",
+      "gmtmin": 60,
+      "tznam": "CE*T",
+      "dstrule": 14,
+      "aliases": [
+        "Arctic/Longyearbyen",
+        "Atlantic/Jan_Mayen"
+      ]
+    },
+    {
+      "cont": 6,
+      "city": "Paris",
+      "gmtmin": 60,
+      "tznam": "CE*T",
+      "dstrule": 14,
+      "aliases": []
+    },
+    {
+      "cont": 6,
+      "city": "Prague",
+      "gmtmin": 60,
+      "tznam": "CE*T",
+      "dstrule": 14,
+      "aliases": [
+        "Europe/Bratislava"
+      ]
+    },
+    {
+      "cont": 6,
+      "city": "Riga",
+      "gmtmin": 120,
+      "tznam": "EE*T",
+      "dstrule": 14,
+      "aliases": []
+    },
+    {
+      "cont": 6,
+      "city": "Rome",
+      "gmtmin": 60,
+      "tznam": "CE*T",
+      "dstrule": 14,
+      "aliases": [
+        "Europe/San_Marino",
+        "Europe/Vatican"
+      ]
+    },
+    {
+      "cont": 6,
+      "city": "Samara",
+      "gmtmin": 240,
+      "tznam": "+04",
+      "dstrule": 0,
+      "aliases": []
+    },
+    {
+      "cont": 6,
+      "city": "Simferopol",
+      "gmtmin": 180,
+      "tznam": "MSK",
+      "dstrule": 0,
+      "aliases": []
+    },
+    {
+      "cont": 6,
+      "city": "Sofia",
+      "gmtmin": 120,
+      "tznam": "EE*T",
+      "dstrule": 14,
+      "aliases": []
+    },
+    {
+      "cont": 6,
+      "city": "Stockholm",
+      "gmtmin": 60,
+      "tznam": "CE*T",
+      "dstrule": 14,
+      "aliases": []
+    },
+    {
+      "cont": 6,
+      "city": "Tallinn",
+      "gmtmin": 120,
+      "tznam": "EE*T",
+      "dstrule": 14,
+      "aliases": []
+    },
+    {
+      "cont": 6,
+      "city": "Tirane",
+      "gmtmin": 60,
+      "tznam": "CE*T",
+      "dstrule": 14,
+      "aliases": []
+    },
+    {
+      "cont": 6,
+      "city": "Ulyanovsk",
+      "gmtmin": 240,
+      "tznam": "+04",
+      "dstrule": 0,
+      "aliases": []
+    },
+    {
+      "cont": 6,
+      "city": "Uzhgorod",
+      "gmtmin": 120,
+      "tznam": "EE*T",
+      "dstrule": 14,
+      "aliases": []
+    },
+    {
+      "cont": 6,
+      "city": "Vienna",
+      "gmtmin": 60,
+      "tznam": "CE*T",
+      "dstrule": 14,
+      "aliases": []
+    },
+    {
+      "cont": 6,
+      "city": "Vilnius",
+      "gmtmin": 120,
+      "tznam": "EE*T",
+      "dstrule": 14,
+      "aliases": []
+    },
+    {
+      "cont": 6,
+      "city": "Volgograd",
+      "gmtmin": 180,
+      "tznam": "+03",
+      "dstrule": 0,
+      "aliases": []
+    },
+    {
+      "cont": 6,
+      "city": "Warsaw",
+      "gmtmin": 60,
+      "tznam": "CE*T",
+      "dstrule": 14,
+      "aliases": [
+        "Poland"
+      ]
+    },
+    {
+      "cont": 6,
+      "city": "Zaporozhye",
+      "gmtmin": 120,
+      "tznam": "EE*T",
+      "dstrule": 14,
+      "aliases": []
+    },
+    {
+      "cont": 6,
+      "city": "Zurich",
+      "gmtmin": 60,
+      "tznam": "CE*T",
+      "dstrule": 14,
+      "aliases": [
+        "Europe/Busingen",
+        "Europe/Vaduz"
+      ]
+    },
+    {
+      "cont": 7,
+      "city": "Chagos",
+      "gmtmin": 360,
+      "tznam": "IOT",
+      "dstrule": 0,
+      "aliases": []
+    },
+    {
+      "cont": 7,
+      "city": "Christmas",
+      "gmtmin": 420,
+      "tznam": "CXT",
+      "dstrule": 0,
+      "aliases": []
+    },
+    {
+      "cont": 7,
+      "city": "Cocos",
+      "gmtmin": 390,
+      "tznam": "CCT",
+      "dstrule": 0,
+      "aliases": []
+    },
+    {
+      "cont": 7,
+      "city": "Kerguelen",
+      "gmtmin": 300,
+      "tznam": "+05",
+      "dstrule": 0,
+      "aliases": []
+    },
+    {
+      "cont": 7,
+      "city": "Mahe",
+      "gmtmin": 240,
+      "tznam": "SCT",
+      "dstrule": 0,
+      "aliases": []
+    },
+    {
+      "cont": 7,
+      "city": "Maldives",
+      "gmtmin": 300,
+      "tznam": "MVT",
+      "dstrule": 0,
+      "aliases": []
+    },
+    {
+      "cont": 7,
+      "city": "Mauritius",
+      "gmtmin": 240,
+      "tznam": "MU*T",
+      "dstrule": 0,
+      "aliases": []
+    },
+    {
+      "cont": 7,
+      "city": "Reunion",
+      "gmtmin": 240,
+      "tznam": "RET",
+      "dstrule": 0,
+      "aliases": []
+    },
+    {
+      "cont": 8,
+      "city": "Apia",
+      "gmtmin": 780,
+      "tznam": "WS*T",
+      "dstrule": 34,
+      "aliases": []
+    },
+    {
+      "cont": 8,
+      "city": "Auckland",
+      "gmtmin": 720,
+      "tznam": "NZ*T",
+      "dstrule": 24,
+      "aliases": [
+        "Antarctica/McMurdo",
+        "Antarctica/South_Pole",
+        "NZ"
+      ]
+    },
+    {
+      "cont": 8,
+      "city": "Bougainville",
+      "gmtmin": 660,
+      "tznam": "BST",
+      "dstrule": 0,
+      "aliases": []
+    },
+    {
+      "cont": 8,
+      "city": "Chatham",
+      "gmtmin": 765,
+      "tznam": "CHA*T",
+      "dstrule": 9,
+      "aliases": [
+        "NZ-CHAT"
+      ]
+    },
+    {
+      "cont": 8,
+      "city": "Chuuk",
+      "gmtmin": 600,
+      "tznam": "CHUT",
+      "dstrule": 0,
+      "aliases": [
+        "Pacific/Truk",
+        "Pacific/Yap"
+      ]
+    },
+    {
+      "cont": 8,
+      "city": "Easter",
+      "gmtmin": -360,
+      "tznam": "EAS*T",
+      "dstrule": 39,
+      "aliases": [
+        "Chile/EasterIsland"
+      ]
+    },
+    {
+      "cont": 8,
+      "city": "Efate",
+      "gmtmin": 660,
+      "tznam": "VU*T",
+      "dstrule": 0,
+      "aliases": []
+    },
+    {
+      "cont": 8,
+      "city": "Enderbury",
+      "gmtmin": 780,
+      "tznam": "PHOT",
+      "dstrule": 0,
+      "aliases": []
+    },
+    {
+      "cont": 8,
+      "city": "Fakaofo",
+      "gmtmin": 780,
+      "tznam": "TKT",
+      "dstrule": 0,
+      "aliases": []
+    },
+    {
+      "cont": 8,
+      "city": "Fiji",
+      "gmtmin": 720,
+      "tznam": "FJ*T",
+      "dstrule": 17,
+      "aliases": []
+    },
+    {
+      "cont": 8,
+      "city": "Funafuti",
+      "gmtmin": 720,
+      "tznam": "TVT",
+      "dstrule": 0,
+      "aliases": []
+    },
+    {
+      "cont": 8,
+      "city": "Galapagos",
+      "gmtmin": -360,
+      "tznam": "GALT",
+      "dstrule": 0,
+      "aliases": []
+    },
+    {
+      "cont": 8,
+      "city": "Gambier",
+      "gmtmin": -540,
+      "tznam": "GAMT",
+      "dstrule": 0,
+      "aliases": []
+    },
+    {
+      "cont": 8,
+      "city": "Guadalcanal",
+      "gmtmin": 660,
+      "tznam": "SBT",
+      "dstrule": 0,
+      "aliases": []
+    },
+    {
+      "cont": 8,
+      "city": "Honolulu",
+      "gmtmin": -600,
+      "tznam": "HST",
+      "dstrule": 0,
+      "aliases": [
+        "Pacific/Johnston",
+        "US/Hawaii"
+      ]
+    },
+    {
+      "cont": 8,
+      "city": "Kiritimati",
+      "gmtmin": 840,
+      "tznam": "LINT",
+      "dstrule": 0,
+      "aliases": []
+    },
+    {
+      "cont": 8,
+      "city": "Kosrae",
+      "gmtmin": 660,
+      "tznam": "KOST",
+      "dstrule": 0,
+      "aliases": []
+    },
+    {
+      "cont": 8,
+      "city": "Kwajalein",
+      "gmtmin": 720,
+      "tznam": "MHT",
+      "dstrule": 0,
+      "aliases": [
+        "Kwajalein"
+      ]
+    },
+    {
+      "cont": 8,
+      "city": "Majuro",
+      "gmtmin": 720,
+      "tznam": "MHT",
+      "dstrule": 0,
+      "aliases": []
+    },
+    {
+      "cont": 8,
+      "city": "Marquesas",
+      "gmtmin": -570,
+      "tznam": "MART",
+      "dstrule": 0,
+      "aliases": []
+    },
+    {
+      "cont": 8,
+      "city": "Nauru",
+      "gmtmin": 720,
+      "tznam": "NRT",
+      "dstrule": 0,
+      "aliases": []
+    },
+    {
+      "cont": 8,
+      "city": "Niue",
+      "gmtmin": -660,
+      "tznam": "NUT",
+      "dstrule": 0,
+      "aliases": []
+    },
+    {
+      "cont": 8,
+      "city": "Norfolk",
+      "gmtmin": 660,
+      "tznam": "NFT",
+      "dstrule": 0,
+      "aliases": []
+    },
+    {
+      "cont": 8,
+      "city": "Noumea",
+      "gmtmin": 660,
+      "tznam": "NC*T",
+      "dstrule": 0,
+      "aliases": []
+    },
+    {
+      "cont": 8,
+      "city": "Pago_Pago",
+      "gmtmin": -660,
+      "tznam": "SST",
+      "dstrule": 0,
+      "aliases": [
+        "Pacific/Midway",
+        "Pacific/Samoa",
+        "US/Samoa"
+      ]
+    },
+    {
+      "cont": 8,
+      "city": "Palau",
+      "gmtmin": 540,
+      "tznam": "PWT",
+      "dstrule": 0,
+      "aliases": []
+    },
+    {
+      "cont": 8,
+      "city": "Pitcairn",
+      "gmtmin": -480,
+      "tznam": "PST",
+      "dstrule": 0,
+      "aliases": []
+    },
+    {
+      "cont": 8,
+      "city": "Pohnpei",
+      "gmtmin": 660,
+      "tznam": "PONT",
+      "dstrule": 0,
+      "aliases": [
+        "Pacific/Ponape"
+      ]
+    },
+    {
+      "cont": 8,
+      "city": "Port_Moresby",
+      "gmtmin": 600,
+      "tznam": "PGT",
+      "dstrule": 0,
+      "aliases": []
+    },
+    {
+      "cont": 8,
+      "city": "Rarotonga",
+      "gmtmin": -600,
+      "tznam": "CK*T",
+      "dstrule": 0,
+      "aliases": []
+    },
+    {
+      "cont": 8,
+      "city": "Tahiti",
+      "gmtmin": -600,
+      "tznam": "TAHT",
+      "dstrule": 0,
+      "aliases": []
+    },
+    {
+      "cont": 8,
+      "city": "Tarawa",
+      "gmtmin": 720,
+      "tznam": "GILT",
+      "dstrule": 0,
+      "aliases": []
+    },
+    {
+      "cont": 8,
+      "city": "Wake",
+      "gmtmin": 720,
+      "tznam": "WAKT",
+      "dstrule": 0,
+      "aliases": []
+    },
+    {
+      "cont": 8,
+      "city": "Wallis",
+      "gmtmin": 720,
+      "tznam": "WFT",
+      "dstrule": 0,
+      "aliases": []
+    }
+  ],
+  "dstrules": {
+    "1": {
+      "daylight": {
+        "label": "D",
+        "dow": 0,
+        "dow_direction": "FORWARD",
+        "month": 9,
+        "dom": 1,
+        "hour": 2,
+        "minute": 0,
+        "transition_tz": "STANDARD"
+      },
+      "standard": {
+        "label": "S",
+        "dow": 0,
+        "dow_direction": "FORWARD",
+        "month": 3,
+        "dom": 1,
+        "hour": 2,
+        "minute": 0,
+        "transition_tz": "STANDARD"
+      }
+    },
+    "2": {
+      "daylight": {
+        "label": "D",
+        "dow": 0,
+        "dow_direction": "FORWARD",
+        "month": 9,
+        "dom": 1,
+        "hour": 2,
+        "minute": 0,
+        "transition_tz": "STANDARD"
+      },
+      "standard": {
+        "label": "S",
+        "dow": 0,
+        "dow_direction": "FORWARD",
+        "month": 3,
+        "dom": 1,
+        "hour": 2,
+        "minute": 0,
+        "transition_tz": "STANDARD"
+      }
+    },
+    "3": {
+      "daylight": {
+        "label": "D",
+        "dow": 0,
+        "dow_direction": "FORWARD",
+        "month": 9,
+        "dom": 1,
+        "hour": 2,
+        "minute": 0,
+        "transition_tz": "STANDARD"
+      },
+      "standard": {
+        "label": "S",
+        "dow": 0,
+        "dow_direction": "FORWARD",
+        "month": 3,
+        "dom": 1,
+        "hour": 2,
+        "minute": 0,
+        "transition_tz": "STANDARD"
+      }
+    },
+    "4": {
+      "daylight": {
+        "label": "D",
+        "dow": 0,
+        "dow_direction": "FORWARD",
+        "month": 9,
+        "dom": 1,
+        "hour": 2,
+        "minute": 0,
+        "transition_tz": "STANDARD"
+      },
+      "standard": {
+        "label": "S",
+        "dow": 0,
+        "dow_direction": "FORWARD",
+        "month": 3,
+        "dom": 1,
+        "hour": 2,
+        "minute": 0,
+        "transition_tz": "STANDARD"
+      }
+    },
+    "5": {
+      "daylight": {
+        "label": "\u0000",
+        "dow": 0,
+        "dow_direction": "FORWARD",
+        "month": 0,
+        "dom": 0,
+        "hour": 0,
+        "minute": 0,
+        "transition_tz": "LOCAL"
+      },
+      "standard": {
+        "label": "\u0000",
+        "dow": 0,
+        "dow_direction": "FORWARD",
+        "month": 0,
+        "dom": 0,
+        "hour": 0,
+        "minute": 0,
+        "transition_tz": "LOCAL"
+      }
+    },
+    "6": {
+      "daylight": {
+        "label": "S",
+        "dow": 0,
+        "dow_direction": "FORWARD",
+        "month": 9,
+        "dom": 15,
+        "hour": 0,
+        "minute": 0,
+        "transition_tz": "LOCAL"
+      },
+      "standard": {
+        "label": "-",
+        "dow": 0,
+        "dow_direction": "FORWARD",
+        "month": 1,
+        "dom": 15,
+        "hour": 0,
+        "minute": 0,
+        "transition_tz": "LOCAL"
+      }
+    },
+    "7": {
+      "daylight": {
+        "label": "S",
+        "dow": 0,
+        "dow_direction": "BACKWARD",
+        "month": 2,
+        "dom": 31,
+        "hour": 2,
+        "minute": 0,
+        "transition_tz": "STANDARD"
+      },
+      "standard": {
+        "label": "-",
+        "dow": 0,
+        "dow_direction": "BACKWARD",
+        "month": 9,
+        "dom": 31,
+        "hour": 2,
+        "minute": 0,
+        "transition_tz": "STANDARD"
+      }
+    },
+    "8": {
+      "daylight": {
+        "label": "D",
+        "dow": 0,
+        "dow_direction": "FORWARD",
+        "month": 2,
+        "dom": 8,
+        "hour": 2,
+        "minute": 0,
+        "transition_tz": "LOCAL"
+      },
+      "standard": {
+        "label": "S",
+        "dow": 0,
+        "dow_direction": "FORWARD",
+        "month": 10,
+        "dom": 1,
+        "hour": 2,
+        "minute": 0,
+        "transition_tz": "LOCAL"
+      }
+    },
+    "9": {
+      "daylight": {
+        "label": "D",
+        "dow": 0,
+        "dow_direction": "BACKWARD",
+        "month": 8,
+        "dom": 30,
+        "hour": 2,
+        "minute": 45,
+        "transition_tz": "STANDARD"
+      },
+      "standard": {
+        "label": "S",
+        "dow": 0,
+        "dow_direction": "FORWARD",
+        "month": 3,
+        "dom": 1,
+        "hour": 2,
+        "minute": 45,
+        "transition_tz": "STANDARD"
+      }
+    },
+    "10": {
+      "daylight": {
+        "label": "\u0000",
+        "dow": 0,
+        "dow_direction": "FORWARD",
+        "month": 0,
+        "dom": 0,
+        "hour": 0,
+        "minute": 0,
+        "transition_tz": "LOCAL"
+      },
+      "standard": {
+        "label": "\u0000",
+        "dow": 0,
+        "dow_direction": "FORWARD",
+        "month": 0,
+        "dom": 0,
+        "hour": 0,
+        "minute": 0,
+        "transition_tz": "LOCAL"
+      }
+    },
+    "11": {
+      "daylight": {
+        "label": "D",
+        "dow": 0,
+        "dow_direction": "FORWARD",
+        "month": 2,
+        "dom": 8,
+        "hour": 0,
+        "minute": 0,
+        "transition_tz": "STANDARD"
+      },
+      "standard": {
+        "label": "S",
+        "dow": 0,
+        "dow_direction": "FORWARD",
+        "month": 10,
+        "dom": 1,
+        "hour": 0,
+        "minute": 0,
+        "transition_tz": "STANDARD"
+      }
+    },
+    "12": {
+      "daylight": {
+        "label": "S",
+        "dow": 0,
+        "dow_direction": "BACKWARD",
+        "month": 2,
+        "dom": 31,
+        "hour": 0,
+        "minute": 0,
+        "transition_tz": "LOCAL"
+      },
+      "standard": {
+        "label": "-",
+        "dow": 0,
+        "dow_direction": "BACKWARD",
+        "month": 9,
+        "dom": 31,
+        "hour": 0,
+        "minute": 0,
+        "transition_tz": "LOCAL"
+      }
+    },
+    "13": {
+      "daylight": {
+        "label": "S",
+        "dow": 0,
+        "dow_direction": "BACKWARD",
+        "month": 2,
+        "dom": 31,
+        "hour": 0,
+        "minute": 0,
+        "transition_tz": "LOCAL"
+      },
+      "standard": {
+        "label": "-",
+        "dow": 0,
+        "dow_direction": "BACKWARD",
+        "month": 9,
+        "dom": 31,
+        "hour": 0,
+        "minute": 0,
+        "transition_tz": "LOCAL"
+      }
+    },
+    "14": {
+      "daylight": {
+        "label": "S",
+        "dow": 0,
+        "dow_direction": "BACKWARD",
+        "month": 2,
+        "dom": 31,
+        "hour": 1,
+        "minute": 0,
+        "transition_tz": "UTC"
+      },
+      "standard": {
+        "label": "-",
+        "dow": 0,
+        "dow_direction": "BACKWARD",
+        "month": 9,
+        "dom": 31,
+        "hour": 1,
+        "minute": 0,
+        "transition_tz": "UTC"
+      }
+    },
+    "15": {
+      "daylight": {
+        "label": "S",
+        "dow": 0,
+        "dow_direction": "BACKWARD",
+        "month": 2,
+        "dom": 31,
+        "hour": 1,
+        "minute": 0,
+        "transition_tz": "UTC"
+      },
+      "standard": {
+        "label": "-",
+        "dow": 0,
+        "dow_direction": "BACKWARD",
+        "month": 9,
+        "dom": 31,
+        "hour": 1,
+        "minute": 0,
+        "transition_tz": "UTC"
+      }
+    },
+    "16": {
+      "daylight": {
+        "label": "\u0000",
+        "dow": 0,
+        "dow_direction": "FORWARD",
+        "month": 0,
+        "dom": 0,
+        "hour": 0,
+        "minute": 0,
+        "transition_tz": "LOCAL"
+      },
+      "standard": {
+        "label": "\u0000",
+        "dow": 0,
+        "dow_direction": "FORWARD",
+        "month": 0,
+        "dom": 0,
+        "hour": 0,
+        "minute": 0,
+        "transition_tz": "LOCAL"
+      }
+    },
+    "17": {
+      "daylight": {
+        "label": "S",
+        "dow": 0,
+        "dow_direction": "FORWARD",
+        "month": 10,
+        "dom": 1,
+        "hour": 2,
+        "minute": 0,
+        "transition_tz": "LOCAL"
+      },
+      "standard": {
+        "label": "-",
+        "dow": 0,
+        "dow_direction": "FORWARD",
+        "month": 0,
+        "dom": 15,
+        "hour": 3,
+        "minute": 0,
+        "transition_tz": "LOCAL"
+      }
+    },
+    "18": {
+      "daylight": {
+        "label": "\u0000",
+        "dow": 0,
+        "dow_direction": "FORWARD",
+        "month": 0,
+        "dom": 0,
+        "hour": 0,
+        "minute": 0,
+        "transition_tz": "LOCAL"
+      },
+      "standard": {
+        "label": "\u0000",
+        "dow": 0,
+        "dow_direction": "FORWARD",
+        "month": 0,
+        "dom": 0,
+        "hour": 0,
+        "minute": 0,
+        "transition_tz": "LOCAL"
+      }
+    },
+    "19": {
+      "daylight": {
+        "label": "S",
+        "dow": 4,
+        "dow_direction": "BACKWARD",
+        "month": 2,
+        "dom": 31,
+        "hour": 24,
+        "minute": 0,
+        "transition_tz": "LOCAL"
+      },
+      "standard": {
+        "label": "-",
+        "dow": 5,
+        "dow_direction": "BACKWARD",
+        "month": 9,
+        "dom": 31,
+        "hour": 0,
+        "minute": 0,
+        "transition_tz": "STANDARD"
+      }
+    },
+    "20": {
+      "daylight": {
+        "label": "D",
+        "dow": 0,
+        "dow_direction": "FORWARD",
+        "month": 9,
+        "dom": 1,
+        "hour": 2,
+        "minute": 0,
+        "transition_tz": "LOCAL"
+      },
+      "standard": {
+        "label": "S",
+        "dow": 0,
+        "dow_direction": "FORWARD",
+        "month": 3,
+        "dom": 1,
+        "hour": 2,
+        "minute": 0,
+        "transition_tz": "LOCAL"
+      }
+    },
+    "21": {
+      "daylight": {
+        "label": "S",
+        "dow": 0,
+        "dow_direction": "BACKWARD",
+        "month": 2,
+        "dom": 31,
+        "hour": 0,
+        "minute": 0,
+        "transition_tz": "LOCAL"
+      },
+      "standard": {
+        "label": "-",
+        "dow": 0,
+        "dow_direction": "BACKWARD",
+        "month": 9,
+        "dom": 31,
+        "hour": 0,
+        "minute": 0,
+        "transition_tz": "LOCAL"
+      }
+    },
+    "22": {
+      "daylight": {
+        "label": "D",
+        "dow": 0,
+        "dow_direction": "FORWARD",
+        "month": 3,
+        "dom": 1,
+        "hour": 2,
+        "minute": 0,
+        "transition_tz": "LOCAL"
+      },
+      "standard": {
+        "label": "S",
+        "dow": 0,
+        "dow_direction": "BACKWARD",
+        "month": 9,
+        "dom": 31,
+        "hour": 2,
+        "minute": 0,
+        "transition_tz": "LOCAL"
+      }
+    },
+    "23": {
+      "daylight": {
+        "label": "S",
+        "dow": 0,
+        "dow_direction": "BACKWARD",
+        "month": 2,
+        "dom": 31,
+        "hour": 2,
+        "minute": 0,
+        "transition_tz": "LOCAL"
+      },
+      "standard": {
+        "label": "-",
+        "dow": 0,
+        "dow_direction": "BACKWARD",
+        "month": 9,
+        "dom": 31,
+        "hour": 3,
+        "minute": 0,
+        "transition_tz": "LOCAL"
+      }
+    },
+    "24": {
+      "daylight": {
+        "label": "D",
+        "dow": 0,
+        "dow_direction": "BACKWARD",
+        "month": 8,
+        "dom": 30,
+        "hour": 2,
+        "minute": 0,
+        "transition_tz": "STANDARD"
+      },
+      "standard": {
+        "label": "S",
+        "dow": 0,
+        "dow_direction": "FORWARD",
+        "month": 3,
+        "dom": 1,
+        "hour": 2,
+        "minute": 0,
+        "transition_tz": "STANDARD"
+      }
+    },
+    "25": {
+      "daylight": {
+        "label": "S",
+        "dow": 0,
+        "dow_direction": "FORWARD",
+        "month": 8,
+        "dom": 1,
+        "hour": 2,
+        "minute": 0,
+        "transition_tz": "LOCAL"
+      },
+      "standard": {
+        "label": "-",
+        "dow": 0,
+        "dow_direction": "FORWARD",
+        "month": 3,
+        "dom": 1,
+        "hour": 2,
+        "minute": 0,
+        "transition_tz": "LOCAL"
+      }
+    },
+    "26": {
+      "daylight": {
+        "label": "S",
+        "dow": 6,
+        "dow_direction": "BACKWARD",
+        "month": 2,
+        "dom": 31,
+        "hour": 1,
+        "minute": 0,
+        "transition_tz": "LOCAL"
+      },
+      "standard": {
+        "label": "-",
+        "dow": 6,
+        "dow_direction": "BACKWARD",
+        "month": 9,
+        "dom": 31,
+        "hour": 1,
+        "minute": 0,
+        "transition_tz": "LOCAL"
+      }
+    },
+    "27": {
+      "daylight": {
+        "label": "S",
+        "dow": 0,
+        "dow_direction": "FORWARD",
+        "month": 9,
+        "dom": 1,
+        "hour": 0,
+        "minute": 0,
+        "transition_tz": "LOCAL"
+      },
+      "standard": {
+        "label": "-",
+        "dow": 0,
+        "dow_direction": "FORWARD",
+        "month": 2,
+        "dom": 22,
+        "hour": 0,
+        "minute": 0,
+        "transition_tz": "LOCAL"
+      }
+    },
+    "28": {
+      "daylight": {
+        "label": "\u0000",
+        "dow": 0,
+        "dow_direction": "FORWARD",
+        "month": 0,
+        "dom": 0,
+        "hour": 0,
+        "minute": 0,
+        "transition_tz": "LOCAL"
+      },
+      "standard": {
+        "label": "\u0000",
+        "dow": 0,
+        "dow_direction": "FORWARD",
+        "month": 0,
+        "dom": 0,
+        "hour": 0,
+        "minute": 0,
+        "transition_tz": "LOCAL"
+      }
+    },
+    "29": {
+      "daylight": {
+        "label": "S",
+        "dow": 5,
+        "dow_direction": "BACKWARD",
+        "month": 2,
+        "dom": 31,
+        "hour": 0,
+        "minute": 0,
+        "transition_tz": "LOCAL"
+      },
+      "standard": {
+        "label": "-",
+        "dow": 5,
+        "dow_direction": "BACKWARD",
+        "month": 9,
+        "dom": 31,
+        "hour": 0,
+        "minute": 0,
+        "transition_tz": "LOCAL"
+      }
+    },
+    "30": {
+      "daylight": {
+        "label": "D",
+        "dow": 0,
+        "dow_direction": "FORWARD",
+        "month": 2,
+        "dom": 8,
+        "hour": 2,
+        "minute": 0,
+        "transition_tz": "LOCAL"
+      },
+      "standard": {
+        "label": "S",
+        "dow": 0,
+        "dow_direction": "FORWARD",
+        "month": 10,
+        "dom": 1,
+        "hour": 2,
+        "minute": 0,
+        "transition_tz": "LOCAL"
+      }
+    },
+    "31": {
+      "daylight": {
+        "label": "D",
+        "dow": 0,
+        "dow_direction": "FORWARD",
+        "month": 2,
+        "dom": 8,
+        "hour": 2,
+        "minute": 0,
+        "transition_tz": "LOCAL"
+      },
+      "standard": {
+        "label": "S",
+        "dow": 0,
+        "dow_direction": "FORWARD",
+        "month": 10,
+        "dom": 1,
+        "hour": 2,
+        "minute": 0,
+        "transition_tz": "LOCAL"
+      }
+    },
+    "32": {
+      "daylight": {
+        "label": "\u0000",
+        "dow": 0,
+        "dow_direction": "FORWARD",
+        "month": 0,
+        "dom": 0,
+        "hour": 0,
+        "minute": 0,
+        "transition_tz": "LOCAL"
+      },
+      "standard": {
+        "label": "\u0000",
+        "dow": 0,
+        "dow_direction": "FORWARD",
+        "month": 0,
+        "dom": 0,
+        "hour": 0,
+        "minute": 0,
+        "transition_tz": "LOCAL"
+      }
+    },
+    "33": {
+      "daylight": {
+        "label": "S",
+        "dow": 0,
+        "dow_direction": "BACKWARD",
+        "month": 2,
+        "dom": 31,
+        "hour": 1,
+        "minute": 0,
+        "transition_tz": "STANDARD"
+      },
+      "standard": {
+        "label": "-",
+        "dow": 0,
+        "dow_direction": "BACKWARD",
+        "month": 9,
+        "dom": 31,
+        "hour": 1,
+        "minute": 0,
+        "transition_tz": "STANDARD"
+      }
+    },
+    "34": {
+      "daylight": {
+        "label": "D",
+        "dow": 0,
+        "dow_direction": "BACKWARD",
+        "month": 8,
+        "dom": 30,
+        "hour": 3,
+        "minute": 0,
+        "transition_tz": "LOCAL"
+      },
+      "standard": {
+        "label": "S",
+        "dow": 0,
+        "dow_direction": "FORWARD",
+        "month": 3,
+        "dom": 1,
+        "hour": 4,
+        "minute": 0,
+        "transition_tz": "LOCAL"
+      }
+    },
+    "35": {
+      "daylight": {
+        "label": "D",
+        "dow": 5,
+        "dow_direction": "FORWARD",
+        "month": 2,
+        "dom": 23,
+        "hour": 2,
+        "minute": 0,
+        "transition_tz": "LOCAL"
+      },
+      "standard": {
+        "label": "S",
+        "dow": 0,
+        "dow_direction": "BACKWARD",
+        "month": 9,
+        "dom": 31,
+        "hour": 2,
+        "minute": 0,
+        "transition_tz": "LOCAL"
+      }
+    },
+    "36": {
+      "daylight": {
+        "label": "S",
+        "dow": 6,
+        "dow_direction": "BACKWARD",
+        "month": 2,
+        "dom": 31,
+        "hour": 2,
+        "minute": 0,
+        "transition_tz": "LOCAL"
+      },
+      "standard": {
+        "label": "-",
+        "dow": 6,
+        "dow_direction": "BACKWARD",
+        "month": 8,
+        "dom": 30,
+        "hour": 0,
+        "minute": 0,
+        "transition_tz": "LOCAL"
+      }
+    },
+    "37": {
+      "daylight": {
+        "label": "S",
+        "dow": 0,
+        "dow_direction": "BACKWARD",
+        "month": 2,
+        "dom": 31,
+        "hour": 2,
+        "minute": 0,
+        "transition_tz": "LOCAL"
+      },
+      "standard": {
+        "label": "-",
+        "dow": 0,
+        "dow_direction": "BACKWARD",
+        "month": 9,
+        "dom": 31,
+        "hour": 3,
+        "minute": 0,
+        "transition_tz": "LOCAL"
+      }
+    },
+    "38": {
+      "daylight": {
+        "label": "D",
+        "dow": 255,
+        "dow_direction": "FORWARD",
+        "month": 2,
+        "dom": 21,
+        "hour": 0,
+        "minute": 0,
+        "transition_tz": "LOCAL"
+      },
+      "standard": {
+        "label": "S",
+        "dow": 255,
+        "dow_direction": "FORWARD",
+        "month": 8,
+        "dom": 21,
+        "hour": 0,
+        "minute": 0,
+        "transition_tz": "LOCAL"
+      }
+    },
+    "39": {
+      "daylight": {
+        "label": "S",
+        "dow": 0,
+        "dow_direction": "FORWARD",
+        "month": 7,
+        "dom": 9,
+        "hour": 4,
+        "minute": 0,
+        "transition_tz": "UTC"
+      },
+      "standard": {
+        "label": "-",
+        "dow": 0,
+        "dow_direction": "FORWARD",
+        "month": 4,
+        "dom": 9,
+        "hour": 3,
+        "minute": 0,
+        "transition_tz": "UTC"
+      }
+    },
+    "40": {
+      "daylight": {
+        "label": "S",
+        "dow": 0,
+        "dow_direction": "FORWARD",
+        "month": 10,
+        "dom": 1,
+        "hour": 2,
+        "minute": 0,
+        "transition_tz": "LOCAL"
+      },
+      "standard": {
+        "label": "-",
+        "dow": 0,
+        "dow_direction": "FORWARD",
+        "month": 0,
+        "dom": 15,
+        "hour": 3,
+        "minute": 0,
+        "transition_tz": "LOCAL"
+      }
+    }
+  }
+}
